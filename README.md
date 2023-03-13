@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robertteah
 - 👀 I’m interested in ... Cloud Computing
-- 🌱 I’m currently learning ... Cloud Devops
-- 💞️ I’m looking to collaborate on ... Cloud Technologies
+- 🌱 I’m currently learning ... Cloud Devops Architech
+- 💞️ I’m looking to collaborate on ... Cloud Projects
 - 📫 How to reach me ... We can connect at robertteah@gmail.com
 
 <!---
